@@ -1,6 +1,6 @@
 #CodeIgniter code intellisense support for Eclipse. 
 ## ci_intellisense
-##@author: Nam Nguyen (namnvhue@gmail.com)
+_@author: Nam Nguyen (namnvhue@gmail.com)_
 
 This is a very helpful tool I developed for my team when they worked with some CI projects and I think it would be helpful to your team too. 
 Check out and place this tool inside your CI project (the same directory level with application folder, rename the folder name in the code if needed, I just keep the default application name). 
